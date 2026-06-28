@@ -1,8 +1,9 @@
 class Solution {
 public:
     int countDistinctIntegers(vector<int>& nums) {
-        unordered_set<int> s(nums.begin(), nums.end());
+        unordered_set<int> s;
         for(int it : nums){
+            s.insert(it);
             int rev = 0;
             while(it>0){
                 int rem = it%10;
