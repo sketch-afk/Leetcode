@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sketch-afk/Leetcode/tree/master/0001-two-sum) |
+| [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sketch-afk/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sketch-afk/Leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
