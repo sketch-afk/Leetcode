@@ -1,20 +1,17 @@
 class MyHashMap {
 public:
-    vector<int> hash;
+    int data[1000001];
     MyHashMap() {
-        hash.resize(1000001,-1);
+        fill(data, data + 1000001, -1);
     }
-    
-    void put(int key, int value) {
-        hash[key] = value;
+    void put(int key, int val) {
+        data[key] = val;
     }
-    
     int get(int key) {
-        return hash[key];
+        return data[key];
     }
-    
     void remove(int key) {
-        hash[key] = -1;
+        data[key] = -1;
     }
 };
 
