@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sketch-afk/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sketch-afk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sketch-afk/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/sketch-afk/Leetcode/tree/master/0706-design-hashmap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sketch-afk/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sketch-afk/Leetcode/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sketch-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sketch-afk/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sketch-afk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sketch-afk/Leetcode/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
