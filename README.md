@@ -61,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sketch-afk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sketch-afk/Leetcode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sketch-afk/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
