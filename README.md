@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/sketch-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sketch-afk/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sketch-afk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sketch-afk/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sketch-afk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
