@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sketch-afk/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sketch-afk/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sketch-afk/Leetcode/tree/master/0027-remove-element) |
+| [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sketch-afk/Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sketch-afk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
