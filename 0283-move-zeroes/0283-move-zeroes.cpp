@@ -11,7 +11,7 @@ public:
         }
         if(j==-1) return;
         for(int i=j+1; i<n; i++){
-            if(nums[i]!=0 && nums[j]==0){
+            if(nums[i]!=0){
                 nums[j]=nums[i];
                 nums[i] = 0;
                 j++;
