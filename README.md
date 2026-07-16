@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sketch-afk/Leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sketch-afk/Leetcode/tree/master/0389-find-the-difference) |
 | [0706-design-hashmap](https://github.com/sketch-afk/Leetcode/tree/master/0706-design-hashmap) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sketch-afk/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/sketch-afk/Leetcode/tree/master/0389-find-the-difference) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/sketch-afk/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Number Theory
 |  |
@@ -91,8 +93,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sketch-afk/Leetcode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sketch-afk/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
