@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sketch-afk/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/sketch-afk/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/sketch-afk/Leetcode/tree/master/0706-design-hashmap) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sketch-afk/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
