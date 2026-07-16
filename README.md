@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sketch-afk/Leetcode/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sketch-afk/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/sketch-afk/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sketch-afk/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
 | [0706-design-hashmap](https://github.com/sketch-afk/Leetcode/tree/master/0706-design-hashmap) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sketch-afk/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 ## Math
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sketch-afk/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/sketch-afk/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/sketch-afk/Leetcode/tree/master/0509-fibonacci-number) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/sketch-afk/Leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sketch-afk/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/sketch-afk/Leetcode/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sketch-afk/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sketch-afk/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
