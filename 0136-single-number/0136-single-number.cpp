@@ -22,27 +22,30 @@ public:
         // for(int i = 0 ; i<n; i++){
         //     hash[nums[i]]++;
         // }
-        // for(int i = 0; i<maxx+1; i++){
-        //     if(hash[i]==1){
-        //         return i;
+        // for(int i = 0; i<n; i++){
+        //     if(hash[nums[i]]==1){
+        //         return nums[i];
         //     }
         // }
         // return 0;
 
-        unordered_map<int, int> frequencies;
+        // unordered_map<int, int> frequencies;
         
-        // Step 1: Count the frequency of each number
-        for (int num : nums) {
-            frequencies[num]++;
+        // for (int num : nums) {
+        //     frequencies[num]++;
+        // }
+        
+        // for (auto& pair : frequencies) {
+        //     if (pair.second == 1) {
+        //         return pair.first;
+        //     }
+        // }
+        // return 0;
+
+        int x = 0;
+        for(int n: nums){
+            x^=n;
         }
-        
-        // Step 2: Find the number that appeared exactly once
-        for (auto& pair : frequencies) {
-            if (pair.second == 1) {
-                return pair.first;
-            }
-        }
-        
-        return 0;
+        return x;
     }
 };
