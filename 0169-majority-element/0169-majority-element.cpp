@@ -12,15 +12,23 @@ public:
         // }
         // return -1;
 
-        int n = nums.size();
-        int ele = n/2;
-        unordered_map<int, int> mp;
 
-        for(int n : nums){
-            mp[n]++;
-        }
-        for(const auto& pair : mp){
-            if(pair.second> ele) return pair.first;
+        // int n = nums.size();
+        // int ele = n/2;
+        // unordered_map<int, int> mp;
+        // for(int n : nums){
+        //     mp[n]++;
+        // }
+        // for(const auto& pair : mp){
+        //     if(pair.second> ele) return pair.first;
+        // }
+        // return -1;
+
+        int n = nums.size();
+        unordered_map<int, int> mp;
+        for(int i = 0; i<n; i++){
+            mp[nums[i]]++;
+            if(mp[nums[i]]>n/2) return nums[i];
         }
         return -1;
     }
