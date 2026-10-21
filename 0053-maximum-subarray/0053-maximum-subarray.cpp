@@ -18,11 +18,12 @@ public:
         int maxm = INT_MIN;
         int sum = 0;
         for(int i = 0; i<n; i++){
-            sum+=nums[i];
-            maxm = max(maxm, sum); 
             if(sum<0){
                 sum =0;
             }
+            sum+=nums[i];
+            maxm = max(maxm, sum); 
+
         }
         return maxm;
     }
