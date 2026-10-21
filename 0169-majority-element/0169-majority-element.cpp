@@ -52,8 +52,8 @@ public:
             if(nums[i]==ele){
                 cnt++;
             }
+            if(cnt>n/2) return ele;
         }
-        if(cnt>n/2) return ele;
         return -1;
     }
 };
