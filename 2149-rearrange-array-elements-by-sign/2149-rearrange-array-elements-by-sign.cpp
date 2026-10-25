@@ -14,6 +14,10 @@ public:
         // }
         // return nums;
         int n = nums.size();
+        if(n==2){
+            if(nums[0]>0) return nums;
+            else swap(nums[0],nums[1]); return nums;
+        }
         vector<int> ans(n);
         int pos = 0, neg=1;
         for(int num : nums){
