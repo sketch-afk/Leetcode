@@ -17,13 +17,19 @@ public:
         if(n==1) return nums[0];
         int maxm = INT_MIN;
         int sum = 0;
+        // int start = -1, ansStart = -1, ansEnd = -1;
         for(int i = 0; i<n; i++){
+            // if(sum == 0) start=i;
+            sum+=nums[i];
+            maxm = max(maxm, sum); 
+            // if(sum>maxm){
+            //     maxm = sum;
+            //     ansStart = start;
+            //     ansEnd = i;
+            // }
             if(sum<0){
                 sum =0;
             }
-            sum+=nums[i];
-            maxm = max(maxm, sum); 
-
         }
         return maxm;
     }
