@@ -51,9 +51,9 @@ public:
         for(int i = 0; i<n; i++){
             if(nums[i]==ele){
                 cnt++;
-                if(cnt>n/2) return ele;
             }
         }
+        if(cnt>n/2) return ele;
         return -1;
     }
 };
