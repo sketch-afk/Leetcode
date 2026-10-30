@@ -7,7 +7,6 @@ public:
         reverse(nums.begin() +k, nums.end());
         reverse(nums.begin(), nums.begin()+k);
         
-
         // vector<int> a;
         // for(int i=n-k; i<n; i++){
         //     a.push_back(nums[i]);
