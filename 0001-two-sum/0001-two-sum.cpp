@@ -12,7 +12,8 @@ public:
         // return {};
 
         int n = nums.size();
-        map<int, int>mp;
+        if(n==2) return {0,1};
+        unordered_map<int, int>mp;
         for(int i = 0; i<n; i++){
             int compliment = target - nums[i];
 
